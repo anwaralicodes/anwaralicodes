@@ -1,14 +1,21 @@
-## Hi there 👋
+Hi there! 👋 I'm Anwar Ali 🚀
+I'm a self-taught web and game developer 🎮💻 with a professional background in 3D and digital art 🎨🖌️, blending technical expertise with creative vision. My journey into tech reflects my passion for creating immersive and interactive experiences 🌐✨, and I'm currently seeking my first opportunity to grow and contribute in the industry.
 
-As a self-taught web and game developer with a professional background in 3D and digital art, I bring a unique blend of technical and creative skills to the table. My transition into tech reflects my passion for building immersive and interactive experiences, and I am currently seeking my first opportunity in the industry. I am eager to contribute, learn, and grow, tackling challenges head-on and continuously expanding my expertise to make a meaningful impact in the field.
+I'm eager to take on challenges 🔧, learn continuously 📚, and build impactful projects 💡 while connecting with like-minded professionals 🤝.
 
-Skills & Technologies:
-HTML | CSS | JS | C# | PYTHON | REACT | ADOBE SUITE | AUTODESK MAYA | BLENDER | UNREAL ENGINE | UNITY | GODOT | FIGMA | GIT | GITHUB | DEBUGING
+🌟 Skills & Technologies
+Languages & Tools:
 
-Important Links:
-https://www.linkedin.com/in/anwaralicodes/
-https://www.youtube.com/@AnwarAliCodes
-https://www.artstation.com/anwaralimedia
+Web Development: HTML 🌐, CSS 🎨, JavaScript ⚡, React ⚛️
+Game Development: C# 🕹️, Python 🐍, Unreal Engine 🏰, Unity 🔗, Godot 🎮
+Design Tools: Adobe Suite 🖍️, Autodesk Maya 🛠️, Blender 🌀, Figma 🎨
+Version Control: Git 🧩, GitHub 🖥️
+Additional Skills: Debugging 🐞, Problem-Solving 🧠 <br>
+<br>
+🔗 Important Links <br>
+🌟 LinkedIn <br>
+🎥 YouTube <br>
+🎨 ArtStation <br>
 
 <!--
 **anwaralicodes/anwaralicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
