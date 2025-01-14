@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+As a self-taught web and game developer with a professional background in 3D and digital art, I bring a unique blend of technical and creative skills to the table. My transition into tech reflects my passion for building immersive and interactive experiences, and I am currently seeking my first opportunity in the industry. I am eager to contribute, learn, and grow, tackling challenges head-on and continuously expanding my expertise to make a meaningful impact in the field.
+
+Skills & Technologies:
+HTML | CSS | JS | C# | PYTHON | REACT | ADOBE SUITE | AUTODESK MAYA | BLENDER | UNREAL ENGINE | UNITY | GODOT | FIGMA | GIT | GITHUB | DEBUGING
+
+Important Links:
+https://github.com/anwaralicodes
+https://www.youtube.com/@AnwarAliCodes
+https://www.artstation.com/anwaralimedia
+
 <!--
 **anwaralicodes/anwaralicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
