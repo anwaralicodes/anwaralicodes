@@ -4,10 +4,10 @@ I'm a self-taught web and game developer 🎮💻 with a professional background
 🌟 Skills & Technologies
 Languages & Tools:
 
-Web Development: HTML 🌐, CSS 🎨, JavaScript ⚡, React ⚛️
-Game Development: C# 🕹️, Python 🐍, Unreal Engine 🏰, Unity 🔗, Godot 🎮
-Design Tools: Adobe Suite 🖍️, Autodesk Maya 🛠️, Blender 🌀, Figma 🎨
-Version Control: Git 🧩, GitHub 🖥️
+Web Development: HTML 🌐, CSS 🎨, JavaScript ⚡, React ⚛️ <br>
+Game Development: C# 🕹️, Python 🐍, Unreal Engine 🏰, Unity 🔗, Godot 🎮 <br>
+Design Tools: Adobe Suite 🖍️, Autodesk Maya 🛠️, Blender 🌀, Figma 🎨 <br>
+Version Control: Git 🧩, GitHub 🖥️ <br>
 Additional Skills: Debugging 🐞, Problem-Solving 🧠 <br>
 <br>
 🔗 Important Links <br>
