@@ -6,7 +6,7 @@ Skills & Technologies:
 HTML | CSS | JS | C# | PYTHON | REACT | ADOBE SUITE | AUTODESK MAYA | BLENDER | UNREAL ENGINE | UNITY | GODOT | FIGMA | GIT | GITHUB | DEBUGING
 
 Important Links:
-https://github.com/anwaralicodes
+https://www.linkedin.com/in/anwaralicodes/
 https://www.youtube.com/@AnwarAliCodes
 https://www.artstation.com/anwaralimedia
 
